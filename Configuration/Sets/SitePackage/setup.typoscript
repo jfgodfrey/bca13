@@ -1,0 +1,21 @@
+page {
+    includeCSS {
+        theme = EXT:bca13/Resources/Public/Scss/Theme/theme.scss
+    }
+
+    includeJSLibs {
+
+    }
+
+    includeJS {
+
+    }
+
+    includeJSFooterlibs {
+
+    }
+
+    includeJSFooter {
+        bca13_scripts = EXT:bca13/Resources/Public/JavaScript/main.js
+    }
+}

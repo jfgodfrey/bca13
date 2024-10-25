@@ -1,0 +1,4 @@
+name: belgrade-christian-assembly/bca13
+label: 'bca13'
+dependencies:
+  - bootstrap-package/full
